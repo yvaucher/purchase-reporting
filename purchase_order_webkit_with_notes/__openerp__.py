@@ -41,6 +41,7 @@ for header and footer
     """,
     'author': 'Camptocamp',
     'website': 'http://www.camptocamp.com',
+    'license': 'AGPL-3',
     'depends': ['base', 'report_webkit', 'base_headers_webkit', 'purchase'],
     'data': ['purchase_report.xml',
              'view/purchase_view.xml'],
